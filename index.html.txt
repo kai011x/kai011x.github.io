@@ -1,5 +1,0 @@
-<html>
-	<body>
-		<b>Test</b>
-	</body>
-</html>
